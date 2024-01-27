@@ -1,0 +1,11 @@
+{
+	"name": "enmity-dumper",
+	"version": "1.0.0",
+	"description": "Provides a WebSocket server for enmity to dump its modules.",
+	"main": "index.js",
+	"author": "Mario <mariovparaschiv@gmail.com> (https://github.com/localip)",
+	"license": "Unlicensed",
+	"dependencies": {
+		"ws": "^8.5.0"
+	}
+}
