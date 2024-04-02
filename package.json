@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Provides a WebSocket server for enmity to dump its modules.",
 	"main": "index.js",
-	"author": "Mario <mariovparaschiv@gmail.com> (github.com/localip)",
+	"author": "Mario <me@marioparaschiv.com> (github.com/marioparaschiv)",
 	"license": "Unlicensed",
 	"dependencies": {
 		"ws": "^8.5.0"
